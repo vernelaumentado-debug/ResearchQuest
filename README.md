@@ -21,4 +21,6 @@ Tap Install anyway.
 
 5. Ready to Go!
 Once installed, tap Open to start using the app.
-Teacher’s Note: If you encounter any "App not installed" errors, make sure you have enough storage space on your phone or check if you have an older version of the app already installed that needs to be deleted first
+
+
+Teacher’s Note: If you encounter any "App not installed" errors, make sure you have enough storage space on your phone or check if you have an older version of the app already installed that needs to be deleted first.
