@@ -3,7 +3,7 @@ To get our app running on your Android device, follow these simple steps. Since 
 1. Download the App
 Click the link provided: https://github.com/vernelaumentado-debug/ResearchQuest/releases/tag/ResearchQuestV1
 
-2.Look for the Assets section at the bottom of the page.
+2. Look for the Assets section at the bottom of the page.
 Tap on the file ending in .apk (e.g., app-release.apk).
 If your browser says "File might be harmful," don't worry—this is a standard message for apps not on the Play Store. Tap Download anyway.
 
