@@ -1,7 +1,7 @@
 How to Install Our Class App (Step-by-Step)
 To get our app running on your Android device, follow these simple steps. Since we are using our own private version instead of the Play Store, you just need to give your phone permission to install it.
 1. Download the App
-Click the link provided: https://github.com/vernelaumentado-debug/ResearchQuest/releases/download/ResearchQuestV1/ResearchQuestV1.apk
+Click the link provided: https://github.com/vernelaumentado-debug/ResearchQuest/releases/tag/ResearchQuestV1
 Look for the Assets section at the bottom of the page.
 Tap on the file ending in .apk (e.g., app-release.apk).
 If your browser says "File might be harmful," don't worry—this is a standard message for apps not on the Play Store. Tap Download anyway.
